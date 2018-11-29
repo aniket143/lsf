@@ -1,0 +1,67 @@
+<div class="page page-with-subnavbar" data-name="teacherask">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="/home/" class="link">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Teacher Ask</div>
+      <!--<div class="subnavbar">
+    <div class="subnavbar-inner">
+      <div class="segmented">
+        <a href="#tab1all" class="button button-active">ALL Questions</a>
+        <a href="#tab2my" class="button">My Questions</a>
+      </div>
+    </div>
+  </div>-->
+    </div>
+  </div>
+  
+    
+  <div class="toolbar messagebar">
+    <div class="toolbar-inner">
+      <a class="link toggle-sheet" href="#">
+        <i class="icon f7-icons ios-only">chat_fill</i>
+        <i class="icon material-icons md-only">textsms</i>
+      </a>
+      <div class="messagebar-area">
+        <textarea placeholder="Message" class="resizable" id="msgbx"></textarea>
+      </div>
+      <a class="link" id="sendmsg" href="#">Send</a>
+    </div>
+    <div class="messagebar-sheet"></div>
+  </div>
+  <div class="page-content messages-content">
+  <!--<div class="tabs">
+      <div class="tab tab-active" id="tab1all">
+        <div class="block">
+          <p>Lorem ipsum dolor sit amet...</p>
+          
+        </div>
+      </div>
+      <div class="tab" id="tab2my">
+        <div class="block">
+          <p>Donec iaculis posuere massa sed dignissim...</p>
+        </div>
+      </div>
+      </div>-->
+      <div class="messages">
+      <div class="message-content">
+          <!-- Sender name -->
+          <div class="message-name">Blue Ninja</div>
+    <div class="message-bubble">
+            <div class="message-text">Hi there, I am also fine, thanks! And how are you?</div>
+          </div>
+          </div>
+  </div>
+  </div>
+  
+  <!-- <div class="page-content">
+  <div class="block">
+ 
+ <p> Comming Soon </p>
+  </div>
+   </div> --> 
+</div>

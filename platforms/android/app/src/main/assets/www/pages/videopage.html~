@@ -1,0 +1,40 @@
+<div class="page" data-name="videopage">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="/home/" class="link">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Video</div>
+    </div>
+  </div>
+  <div class="page-content">
+<div class="block" id="videolink">
+  </div>
+<script id="allyoutoubvideotemplate" type="text/template7">	
+
+{{#each voicedata}}
+<div class="card demo-card-header-pic">
+  <div class="card-header align-items-flex-end"><iframe width="560" height="300" src="{{youtube_link}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+  <div class="card-content card-content-padding">
+    <p class="date">Posted on Oct 09bhi, 2018</p>
+    </div>
+  <div class="card-footer "><a href="/self_prac/?t_id={{topic_id}}" class="button button-fill button-round color-green">Self-practice</a><a href="/feedback/?t_id={{topic_id}}" class="button button-fill button-round color-blue">Feedback</a></div>
+</div>
+<div class="block">
+  <div class="row">
+    <button class="button button-outline col button-round color-green"><a href="/voicecapture/?t_id={{topic_id}}&youtoublink={{youtube_link}}" class="link">Self Practice with Own Voice</a></button>
+  </div>
+ <div class="row">
+    <button class="button color-green"><a href="{{pdf_link}}" id="down_practsheet" class="link"><i class="icon f7-icons md-only">download_fill</i>Best practice in classroom</a></button>
+  </div>
+
+
+</div>
+ {{/each}}
+</script>    
+
+
+</div>

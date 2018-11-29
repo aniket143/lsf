@@ -1,0 +1,169 @@
+<div class="page" data-name="feedback">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Feedback</div>
+    </div>
+  </div>
+  <div class="page-content">
+  <div class="block">
+  <div class="content-block-inner">
+  <form class="list" id="my-form">
+    
+  <ul>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap ">1.How many times did you see this video clip?</div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio1" value="Once"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Once
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio1" value="twice"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+         twice 
+        </div>
+      </label>
+    </li>
+        <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio1" value="thrice"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+         thrice 
+        </div>
+      </label>
+    </li>
+          
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">2. Where did you see this video clip and listen to the audio? </div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio2" value="At home"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          At home
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio2" value="in the school"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          in the school
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio2" value="during travel"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          during travel
+        </div>
+      </label>
+    </li>
+    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">3. How would you like to teach this topic in your classroom</div>
+          <div class="item-input-wrap">
+             <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio3" value="Playing the video" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Playing the video
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio3" value="using flashcards"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          using flashcards
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio3" value="playing enjoyable games"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          playing enjoyable games
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="demo-radio3" value="playing enjoyable games"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+				all of the above
+        </div>
+      </label>
+    </li>    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">4. Do you have any other questions related to topic 'My Family'</div>
+          <div class="item-input-wrap">
+            <input type="text" name="que1" id="que1" placeholder="Questions">
+          </div>
+        </div>
+      </div>
+    </li>
+<li>
+ <a href="#" class="feedback col button button-fill color-red">SUBMIT</a>
+</li>
+
+  </ul>
+  </form>
+  </div>
+  </div>
+  </div>
+  </div>

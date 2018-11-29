@@ -1,0 +1,405 @@
+<div class="page" data-name="self_prac">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Self Practice</div>
+    </div>
+  </div>
+  <div class="page-content">
+   <div class="block">
+  <div class="content-block-inner">
+   <h4> Select options for each question given under</h4>
+  <form class="list" id="my-form">
+    
+  <ul id="qtyarea">
+    <!-- <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q. 1 How old is Jenny?</div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="1"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          9
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          5
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          7
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          6
+        </div>
+      </label>
+    </li>
+      
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q. 2 What is jenny’s Father’s name?</div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Samuel
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Sanjog
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Sanjay
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Samsung
+        </div>
+      </label>
+    </li>
+    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q.3 Which of the following sentence is correct</div>
+          <div class="item-input-wrap">
+             <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+          My mothers name is Sangita
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+         My mother name Sangita
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+          My mother’s name is Sangita
+        </div>
+      </label>
+    </li>
+
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+          My mother’s name Sangita
+        </div>
+      </label>
+    </li>
+    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+        <div class="item-title-wrap">Q. 4 Could you tell us little about your family.</div>
+          <div class="item-title item-label">
+            <h3>Brother</h3>
+          </div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="brother" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          <div class="item-title-wrap">I have a brother </div>
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="brother" value="2" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          <div class="item-title-wrap">I have more than one brother </div>
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="brother" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          <div class="item-title-wrap">I don’t have a brother </div>
+        </div>
+      </label>
+    </li>
+    
+    
+  </ul>
+</div>
+          </div>
+
+          <div class="item-title item-label">
+            <h3>Sister</h3>
+          </div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="sister" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          <div class="item-title-wrap">I have a Sister </div>
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="sister" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          <div class="item-title-wrap">I have more than one Sister </div>
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="sister" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          <div class="item-title-wrap">I don’t have a Sister </div>
+        </div>
+      </label>
+    </li>
+    
+    
+  </ul>
+</div>
+          </div>
+
+          
+
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="row">
+          <div class="item-title item-label-wrap">
+            <h3>Mother-My mother’s name is</h3>
+          </div>
+          <div class="item-input-wrap">
+            
+            <input type="text" name="mname" id="mname" placeholder="Your mother's name">
+          
+          </div>
+
+
+          </div>
+    </li>
+
+     <li>
+      <div class="row">
+          <div class="item-title item-label-wrap">
+            <h3>Father-My father’s name is</h3>
+          </div>
+          <div class="item-input-wrap">
+            
+            <input type="text" name="fname" id="fname" placeholder="Your father's name">
+          
+          </div>
+
+
+          </div>
+    </li>
+
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q. 5 How many members live together in your family? (please write in a full sentence)</div>
+          <div class="item-input-wrap">
+            <input type="text" name="members" id="members" placeholder="members">
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title item-label"><h2>Q. 6 When is your birthday?</h2></div>
+          <div class="item-input-wrap">
+            <input type="date" name="birthdate" id="birthdate" value="2014-04-30" placeholder="Please choose...">
+          </div>
+        </div>
+      </div>
+    </li>
+
+<li>
+
+<a href="#" class="selfprac col button button-fill color-red">SUBMIT</a>
+  
+</li> -->
+
+  </ul>
+  <a href="#" class="selfprac col button button-fill color-red">SUBMIT</a>
+  </form>
+  <div id="anssheet"></div>
+  </div>
+  <div class="block"  >
+  
+  </div>
+  
+  
+<script id="selfpracdatatemplate" type="text/template7">	
+
+{{#each selfprac}}
+{{#if qut_type}}
+
+<li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">{{@index+1}}){{qtext}}</div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" data-qid="{{q_id}}" name="age{{@index+1}}" value="1"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          {{opt1}}
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" data-qid="{{q_id}}" name="age{{@index+1}}" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          {{opt2}}
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" data-qid="{{q_id}}" name="age{{@index+1}}" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          {{opt3}}
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" data-qid="{{q_id}}" name="age{{@index+1}}" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          {{opt4}}
+        </div>
+      </label>
+    </li>
+      
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    
+    {{else}}
+
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">{{@index+1}}){{qtext}}</div>
+          <div class="item-input-wrap">
+            <input type="text" name="members" id="members{{@index+1}}"  data-qid="{{q_id}}" placeholder="{{qtext}}">
+          </div>
+        </div>
+      </div>
+    </li>
+
+  	{{/if}}
+             <input type="text" name="cout" id="count{{@index+1}}"  placeholder="{{@index+1}}" value="{{@index+1}}"/>
+ {{/each}}
+
+</script> 
+  </div>
+  </div>
+  </div>
+

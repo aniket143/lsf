@@ -1,0 +1,128 @@
+<div class="page" data-name="home">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+       <div class="left">
+                <a href="#" class="link icon-only panel-open" data-panel="left">
+                  <i class="icon f7-icons ios-only">menu</i>
+                  <i class="icon material-icons md-only">menu</i>
+                </a>
+              </div>
+      <div class="title">Home</div>
+    </div>
+  </div>
+  <div class="page-content">
+      <div class="chip color-orange">
+    <div class="chip-media bg-color-blue">
+      <i class="icon f7-icons ios-only">person</i>
+      <i class="icon material-icons md-only">person</i>
+    </div>
+    <div class="chip-label">Hello <span id="username"></span> </div>
+  </div>
+ <div class="card">
+  <div class="card-header">New Tutorial:</div>
+  <div class="card-content">
+    <div class="list media-list">
+      <ul>
+        <li>
+              <a href="/videopage1/" class="item-link item-content">
+          <div class="item-media"><img src="img/video.png"  width="44"/></div>
+          <div class="item-inner">
+            <div class="item-title-row">
+              <div class="item-title"><b>My Family</b></div>
+            </div>
+            <div class="item-subtitle-wrap">Std: 2,Unit:  2,Page No in Textbook :  17,                  
+                                       </div>
+          </div>
+          </a>
+        </li>
+        <li>
+        <a href="/videopage2/" class="item-link item-content">
+        <div class="item-media"><img src="img/video.png"  width="44"/></div>
+        <div class="item-inner">
+          <div class="item-title-row">
+            <div class="item-title"><b>Head, shoulders</b></div>
+          </div>
+          <div class="item-subtitle-wrap">Std: 2,Unit: 1,Page	No in Textbook: 7,</div>
+        </div>
+        </a>
+        </li>
+        
+        <li>
+         <a href="/videopage3/" class="item-link item-content">
+          <div class="item-media"><img src="img/video.png" width="44"/></div>
+          <div class="item-inner">
+            <div class="item-title-row">
+              <div class="item-title"><b>Colours – Part 1</b></div>
+            </div>
+            <div class="item-subtitle-wrap">Std: 3,Unit: 1,Page No in Textbook :  2,</div>
+          </div>
+         </a> 
+        </li>
+         <li>
+         <a href="/videopage4/" class="item-link item-content">
+          <div class="item-media"><img src="img/video.png" width="44"/></div>
+          <div class="item-inner">
+            <div class="item-title-row">
+              <div class="item-title"><b>Colours – Part 2</b></div>
+            </div>
+            <div class="item-subtitle-wrap">Std: 3,Unit: 1,Page No in Textbook :  2,</div>
+          </div>
+         </a> 
+        </li>
+        <li>
+        <a href="/videopage5/" class="item-link item-content">
+        <div class="item-media"><img src="img/video.png"  width="44"/></div>
+        <div class="item-inner">
+          <div class="item-title-row">
+            <div class="item-title"><b>Strings of Actions</b></div>
+          </div>
+          <div class="item-subtitle-wrap">Std: 3,Unit: 2,Page	No in Textbook: 20,</div>
+        </div>
+        </a>
+        </li>
+                <li>
+        <a href="/videopage6/" class="item-link item-content">
+        <div class="item-media"><img src="img/video.png"  width="44"/></div>
+        <div class="item-inner">
+          <div class="item-title-row">
+            <div class="item-title"><b>Spell Power</b></div>
+          </div>
+          <div class="item-subtitle-wrap">Std: 4,Unit: 1,Page	No in Textbook: 5,</div>
+        </div>
+        </a>
+        </li>
+        
+      </ul>
+      <ul>
+<span class="block" id="showalltutorial">
+
+</span>
+</ul>
+    </div>
+  </div>
+  <div class="card-footer"> <span>Oct 09, 2018</span></div>
+</div>
+
+
+
+<script id="alltutorialtemplate" type="text/template7">	
+
+{{#each tutorialdata}}
+  <li>
+        <a href="/videopage/?t_id={{topic_id}}&youtube_link={{youtube_link}}&self_practice={{self_practice}}&pdf_link={{pdf_link}}&own_voice={{own_voice}}&feedback={{feedback}}'"  class="item-link item-content">
+          <div class="item-media"><img src="img/video.png"  width="44"/></div>
+          <div class="item-inner">
+            <div class="item-title-row">
+              <div class="item-title"><b>{{topic}}</b></div>
+            </div>
+            <div class="item-subtitle-wrap"> {{description}}                 
+                                       </div>
+          </div>
+          </a>
+        </li>
+         
+ {{/each}}
+</script>        
+
+  </div>
+</div>

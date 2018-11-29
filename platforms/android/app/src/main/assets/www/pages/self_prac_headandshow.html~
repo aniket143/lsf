@@ -1,0 +1,189 @@
+<div class="page" data-name="self_prac_headandshow">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Self Practice</div>
+    </div>
+  </div>
+  <div class="page-content">
+   <div class="block">
+  <div class="content-block-inner">
+   <h4> Select options for each question given under</h4>
+  <form class="list" id="my-form">
+    
+  <ul>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q.1 How many body parts are mentioned in the poem? </div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="1"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          6
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          8
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          9
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          7
+        </div>
+      </label>
+    </li>
+      
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q.2 What is the correct sequence of body parts as sung in the poem?</div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Head, Shoulders, Knees, Toes, Ears, Eyes, Mouth, Nose.
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Head, Shoulders, Knees, Toes, Eyes, Ears, Nose, Mouth.
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Head, Shoulders, Toes, Knees, Eyes, Ears, Mouth, Nose.
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          Head, Shoulders, Knees, Toes, Eyes, Ears, Mouth, Nose.
+        </div>
+      </label>
+    </li>
+    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q.3 Which of the sentences given under is correct?</div>
+          <div class="item-input-wrap">
+             <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+          The head is top of the shoulders.
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+         The head is beside of the shoulders.
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+          The head is on the shoulders.
+        </div>
+      </label>
+    </li>
+
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="mothername" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner-wrap">
+          The head is under the shoulders.
+        </div>
+      </label>
+    </li>
+    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+      
+            
+    </li>
+    
+
+   
+<li>
+
+<a href="#" class="selfprac_head col button button-fill color-red">SUBMIT</a>
+  
+</li>
+
+  </ul>
+  </form>
+  <div id="anssheet"></div>
+  </div>
+  </div>
+  </div>
+  </div>
+

@@ -1,0 +1,58 @@
+<div class="page" data-name="voicecapture_spellcheck">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Voice Recording</div>
+    </div>
+  </div>
+
+  <div class="page-content">
+	<div class="block">
+	
+    <div class="block-title">Text To Read</div>
+    <!-- Inset content block -->
+    <div class="content-block inset">
+      <div class="content-block-inner">
+        <p>
+Hello children, what did you do when I was away?<br>
+
+We made letter cards – lots of them!<br>
+
+That's great; show me your cards.<br>
+
+We can play a game with them, later.<br>
+
+Now, look at the board. You will find some letters there with blanks in between.<br>
+
+If you fill the blanks with the correct letters, you can make words.<br>
+
+Here – I will do the first one.<br>
+
+M  A  N  - Man<br>
+
+What about M  E  N – Men<br>
+
+That's correct too.
+        </p>
+      </div>
+    </div>
+  <p class="row">
+    <a class="col button button-fill button-round color-green" id="start_voice"><i class="material-icons">record_voice_over</i>Start Recording</a>
+    <a class="col button button-fill button-round color-red" id="stop_voice"><i class="material-icons">record_voice_over</i>Stop Recording</a>
+  </p>
+  <p class="row">  
+    <a class="col button button-fill button-round color-blue" id="play_voice"><i class="material-icons md-48">play_circle_filled</i>Play</a>
+  </p>
+  </div>
+  <div class="card demo-card-header-pic">
+  <div class="card-header align-items-flex-end"><iframe width="560" height="200" src="https://www.youtube.com/embed/S3BfHwUncaE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+  <div class="card-content card-content-padding">
+    </div>
+</div>
+  </div>
+</div>

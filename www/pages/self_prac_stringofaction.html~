@@ -1,0 +1,137 @@
+<div class="page" data-name="self_prac_stringofaction">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">Self Practice</div>
+    </div>
+  </div>
+  <div class="page-content">
+   <div class="block">
+  <div class="content-block-inner">
+   <h4> Select options for each question given under</h4>
+  <form class="list" id="my-form">
+    
+  <ul>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q.1 Who is Babalee’s father? </div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="1"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          conductor
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          driver
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          teacher
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="age" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          policeman
+        </div>
+      </label>
+    </li>
+      
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="item-content item-input">
+        <div class="item-inner">
+          <div class="item-title-wrap">Q.2 Babalee is up, she is ……………… her teeth, she is ……………….. tea. Babalee is ……………… the floor. Now she is …………….. to school.</div>
+          <div class="item-input-wrap">
+            <div class="list">
+  <ul>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="1" />
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          coming, sweeping, drinking, brushing
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="2"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          brushing, drinking, sweeping, walking
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="3"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          drinking, brushing, walking, going
+        </div>
+      </label>
+    </li>
+    <li>
+      <label class="item-radio item-content">
+        <input type="radio" name="fathername" value="4"/>
+        <i class="icon icon-radio"></i>
+        <div class="item-inner">
+          brushing, drinking, going, walking
+        </div>
+      </label>
+    </li>
+    
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </li>
+    
+    
+
+   
+<li>
+
+<a href="#" class="selfprac col button button-fill color-red">SUBMIT</a>
+  
+</li>
+
+  </ul>
+  </form>
+  <div id="anssheet"></div>
+  </div>
+  </div>
+  </div>
+  </div>
+

@@ -1,0 +1,32 @@
+<div class="page" data-name="about">
+  <div class="navbar">
+    <div class="navbar-inner sliding">
+      <div class="left">
+        <a href="#" class="link back">
+          <i class="icon icon-back"></i>
+          <span class="ios-only">Back</span>
+        </a>
+      </div>
+      <div class="title">About</div>
+    </div>
+  </div>
+  <div class="page-content">
+  <div class="block-title">Image</div>
+           
+    <div class="block block-strong">
+    <form>
+      <p><img id ="myImage" src="" width="100%" height="280px" class="lazy lazy-fade-in"></p>
+      <p class="row">
+         <div class="item-input-wrap">
+         <p id="geolocation">.</p>
+<!--            <textarea id="input_text" placeholder="Enter Your Comments" ></textarea> 
+                         <p>  <input id="name_id"type="text" placeholder="Enter Your name"/></p>
+                         <p>  <input id="mob_id"type="text" placeholder="Enter Mobile No"/></p>-->
+           <p id="camera_status" style="font-size: 10; color: red;" ></p>
+         </div>
+         <a href="#" id="Uploadimg" type="submit" class="col button button-fill" value="Upload" >Submit</a> 
+      </p>
+    </form> 
+    </div>
+  </div>
+</div>

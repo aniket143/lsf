@@ -45,6 +45,8 @@
         <preference name="SplashMaintainAspectRatio" value="false" />
         <preference name="SplashShowOnlyFirstTime" value="true" />
         <preference name="SplashScreenSpinnerColor" value="white" />
+        <preference name='phonegap-version' value='cli-7.0.1' />
+<preference name='pgb-builder-version' value='1' />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />

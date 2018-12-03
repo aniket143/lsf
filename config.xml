@@ -87,11 +87,11 @@
     </feature>
 <plugin name="cordova-plugin-sqlite-2"  />
    <!-- <plugin name="App" value="org.apache.cordova.App"/>-->
-<plugin name="cordova-plugin-geolocation" source="npm" />
+<!--<plugin name="cordova-plugin-geolocation" source="npm" />-->
     <plugin name="cordova-plugin-device"  source="npm" />
    <!-- <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />-->
     <plugin name="cordova-plugin-camera" spec="^4.0.3" />
-    <!--<plugin name="cordova-plugin-geolocation" spec="^4.0.1" />-->
+   <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <plugin name="cordova-plugin-document-viewer" spec="^0.9.10" />
     <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />

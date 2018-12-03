@@ -85,7 +85,7 @@
     <feature name="Capture">
         <param name="android-package" value="org.apache.cordova.mediacapture.Capture" />
     </feature>
-<plugin name="SQLitePlugin" value="SQLitePlugin" />
+<plugin name="Storage" value="org.apache.cordova.Storage" />
     <plugin name="App" value="org.apache.cordova.App"/>
      <plugin name="Geolocation" value="org.apache.cordova.GeoBroker"/>
      <plugin name="Device" value="org.apache.cordova.Device"/>

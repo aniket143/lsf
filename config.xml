@@ -85,7 +85,6 @@
     <feature name="Capture">
         <param name="android-package" value="org.apache.cordova.mediacapture.Capture" />
     </feature>
-<gap:plugin name="SQLitePlugin" value="io.liteglue.SQLitePlugin"/>
 <gap:plugin name="SQLitePlugin" value="SQLitePlugin" />
     <plugin name="App" value="org.apache.cordova.App"/>
      <plugin name="Geolocation" value="org.apache.cordova.GeoBroker"/>
